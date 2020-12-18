@@ -1,0 +1,11 @@
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.hover-color:hover {
+    background: rgb(185, 178, 178);
+}
+
+.background-image{
+    background-image: url('../image/game.jpg');
+}
